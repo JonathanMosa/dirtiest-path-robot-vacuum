@@ -50,5 +50,5 @@ max_moves_5x5 = 10
 To use these test cases:
 1. Copy the chosen grid, robot_initial, and max_moves into main.py.
 2. Run: python main.py
-3. Output should be simialr to what is expected
+3. Output should be similar to what is expected
 """
